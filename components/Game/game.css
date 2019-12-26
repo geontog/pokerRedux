@@ -1,0 +1,15 @@
+.game {
+  text-align: center;
+}
+
+.box {
+  margin: 60px;
+}
+
+h3 {
+  color: lightblue;
+}
+
+.status {
+  color: yellow !important;
+}

@@ -1,0 +1,12 @@
+body {
+  background-image: url("https://us.123rf.com/450wm/salamatik/salamatik1803/salamatik180300012/97519237-green-texture-felt-background-for-poker-and-casino-table-.jpg?ver=6");
+  background-position: center;
+}
+
+html {
+  height: 100%;
+}
+
+button {
+  margin: 5px !important;
+}

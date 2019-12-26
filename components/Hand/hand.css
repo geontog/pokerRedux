@@ -1,0 +1,14 @@
+/* .myCards {
+  display:table;
+} */
+
+/* the style myCards goes to the ul on hand.js to put buttons under */
+
+.needsAligning {
+  padding-left: 35%;
+  padding-right: 25%;
+}
+
+.myCard {
+  cursor: pointer;
+}
